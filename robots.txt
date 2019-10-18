@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aichahboyu.cofe.xyz/sitemap.xml
